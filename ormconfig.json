@@ -1,10 +1,10 @@
 {
-   "type": "pg",
+   "type": "postgres",
    "host": "localhost",
    "port": 5432,
    "username": "root",
    "password": "root",
-   "database": "typeorm-ts",
+   "database": "orm",
    "synchronize": true,
    "logging": false,
    "entities": [
